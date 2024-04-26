@@ -6,6 +6,7 @@
 
 body{
     padding: 10px;
+    background-color: #adff2f;
 }
 .container{
 
@@ -57,3 +58,26 @@ body{
 #tree{
     order: 2;
 }
+
+@media screen and (max-width:1200px) {
+    
+    body {
+        background-color: red;
+    }
+    .element {
+        border: 5px solid greenyellow;
+    
+    }
+}
+
+@media screen and (max-width:800px) {
+    
+    body {
+        background-color: rgb(42, 0, 229);
+    }
+    .element {
+        border: 5px solid rgb(225, 38, 85);
+    
+    }
+}
+
