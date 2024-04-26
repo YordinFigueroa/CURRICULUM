@@ -318,7 +318,7 @@ nav{
     box-shadow: 0 4px 10px rgba(17, 29, 48, .26);
     color: #fff;
     background: #d03d3d;
-    transition: .5s;    
+    transition: .5s;
 }
 
 .certificate a {
@@ -329,6 +329,7 @@ nav{
 .certificate a:hover {
     color: #fff;
 }
+
 
 /* ################################## MEDIA QUERYS ################################## */
 @media screen and (max-width:600px) {
