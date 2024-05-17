@@ -71,7 +71,7 @@ nav{
 .hamburguer {
     width: 80px;
     height: 80px;
-     display: none; 
+    display: none; 
     text-align: center;
     z-index: 100;
     cursor: pointer;
